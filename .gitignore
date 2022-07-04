@@ -25,6 +25,9 @@ bin
 bin32
 /build/
 .hg/
+*.xcodeproj
+.swiftpm
+.build
 examples/LoadFileExampleNoGUI/LoadFileExampleNoGUI/example.ifc
 examples/SimpleViewerExampleQt/dumpEntity.ifc
 examples/SimpleViewerExampleQt/SimpleWall.ifc
