@@ -9,6 +9,7 @@ let package = Package(
   products: [
     .library(
       name: "IfcPlusPlus",
+      type: .dynamic,
       targets: ["IfcPlusPlus"]
     )
   ],
