@@ -1,0 +1,4 @@
+module IfcPlusPlus {
+    umbrella "/Users/mathijs/Developer/IfcPlusPlus/IfcPlusPlus/src"
+    export *
+}

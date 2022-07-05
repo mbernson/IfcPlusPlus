@@ -25,7 +25,7 @@ bin
 bin32
 /build/
 .hg/
-*.xcodeproj
+xcuserdata
 .swiftpm
 .build
 examples/LoadFileExampleNoGUI/LoadFileExampleNoGUI/example.ifc
